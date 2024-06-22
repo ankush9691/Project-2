@@ -1,0 +1,145 @@
+{
+    "product":[
+        
+        {
+            "id": 1,
+            "image":"https://images.bewakoof.com/t1080/men-s-blue-moon-knight-graphic-printed-oversized-t-shirt-519226-1715257436-1.jpg",
+            "title":"Men's Blue Moon Knight Graphic Printed Oversized T-shirt",
+            "price":"₹499",
+            "catagories":"Men's Oversized T-shirt"
+        },
+        {
+            "id": 2,
+            "image":"https://images.bewakoof.com/t1080/men-s-dark-grey-oversized-t-shirt-634345-1717579611-1.jpg",
+            "title":"Men's Dark Grey Textured Oversized T-shirt",
+            "price":"₹699",
+            "catagories":"Men's Oversized T-shirt" 
+        },
+        {
+            "id": 3,
+            "image":"https://images.bewakoof.com/t1080/men-s-blue-t-shirt-115-1705996233-1.jpg",
+            "title":"Men's Blue T-shirt",
+            "price":"₹399",
+            "catagories":"Men's Classic T-shirt"
+        },
+        {
+            "id": 4,
+            "image":"https://images.bewakoof.com/t1080/men-s-white-t-shirt-1093-1708356232-1.jpg",
+            "title":"Men's White T-shirt",
+            "price":"₹399",
+            "catagories":"Men's Classic T-shirt"
+        },
+        {
+            "id": 5,
+            "image":"https://images.bewakoof.com/t1080/men-s-black-mickey-trio-call-dl-graphic-printed-t-shirt-276320-1717060540-1.jpg",
+            "title":"Men's Black Mickey Trio Call (DL) Graphic Printed T-shirt",
+            "price":"₹399",
+            "catagories":"Men's Printed T-shirt"
+        },
+        {
+            "id": 6,
+            "image":"https://images.bewakoof.com/t1080/men-s-black-the-dark-knight-graphic-printed-t-shirt-592032-1715258080-1.jpg",
+            "title":"Men's Black The Dark Knight Graphic Printed T-shirt",
+            "price":"₹399",
+            "catagories":"Men's Printed T-shirt"
+        },
+        {
+            "id": 7,
+            "image":"https://images.bewakoof.com/t1080/men-s-blue-super-loose-fit-cargo-joggers-617452-1710770897-1.jpg",
+            "title":"Men's Blue Super Loose Fit Cargo Joggers",
+            "price":"₹399",
+            "catagories":"Men's Joggers"
+        },
+        {
+            "id": 8,
+            "image":"https://images.bewakoof.com/t1080/men-s-blue-super-loose-fit-joggers-617466-1710770992-1.jpg",
+            "title":"Men's Blue Super Loose Fit Joggers",
+            "price":"₹399",
+            "catagories":"Men's Joggers"
+        },
+        {
+            "id": 9,
+            "image":"https://images.bewakoof.com/t1080/men-s-white-jeans-white-624683-1710335724-1.jpg",
+            "title":"Men's White Distressed Jeans",
+            "price":"₹399",
+            "catagories":"Men's Jeans"
+        },
+        {
+            "id": 10,
+            "image":"https://images.bewakoof.com/t1080/men-s-blue-straight-fit-jeans-624693-1707976677-1.jpg",
+            "title":"Men's Blue Straight Fit Cargo Carpenter Jeans",
+            "price":"₹399",
+            "catagories":"Men's Jeans"
+        },
+        {
+            "id": 11,
+            "image":"https://images.bewakoof.com/t1080/women-s-pink-waves-till-the-grave-graphic-printed-oversized-t-shirt-637084-1717669404-1.jpg",
+            "title":"Women's Pink Waves Till the Grave Graphic Printed Oversized T-shirt",
+            "price":"₹399",
+            "catagories":"Women's Oversized T-shirt"
+        },
+        {
+            "id": 12,
+            "image":"https://images.bewakoof.com/t1080/women-s-black-bts-astro-jin-graphic-printed-oversized-t-shirt-556479-1715258093-1.jpg",
+            "title":"Women's Black BTS Astro (JIN) Graphic Printed Oversized T-shirt",
+            "price":"₹399",
+            "catagories":"Women's Oversized T-shirt"
+        },
+        {
+            "id": 13,
+            "image":"https://images.bewakoof.com/t1080/women-s-red-worst-enemies-graphic-printed-t-shirt-612461-1693834979-1.jpg",
+            "title":"Women's Red Worst Enemies Graphic Printed T-shirt",
+            "price":"₹399",
+            "catagories":"Women's Printed T-shirt"
+        },
+        {
+            "id": 14,
+            "image":"https://images.bewakoof.com/t1080/women-certified-troublemakers-tjl-regular-graphic-printed-t-shirt-621368-1701114333-1.jpg",
+            "title":"Women's Black Certified Troublemakers Graphic Printed T-shirt",
+            "price":"₹399",
+            "catagories":"Women's Printed T-shirt"
+        },
+        {
+            "id": 15,
+            "image":"https://images.bewakoof.com/t540/women-s-grey-super-loose-fit-wide-leg-pants-casual-pants-620031-1705498322.jpg",
+            "title":"Women's Grey Super Loose Fit Wide Leg Pants",
+            "price":"₹399",
+            "catagories":"Women's Casual Pants"
+        },
+        {
+            "id": 16,
+            "image":"https://images.bewakoof.com/t540/women-s-black-super-loose-fit-wide-leg-pants-casual-pants-620032-1705498322.jpg",
+            "title":"Women's Black Super Loose Fit Wide Leg Pants",
+            "price":"₹399",
+            "catagories":"Women's Casual Pants"
+        },
+        {
+            "id": 17,
+            "image":"https://images.bewakoof.com/t1080/women-s-green-oversized-joggers-604226-1710767272-1.jpg",
+            "title":"Women's Green Oversized Joggers",
+            "price":"₹399",
+            "catagories":"Women's Joggers"
+        },
+        {
+            "id": 18,
+            "image":"https://images.bewakoof.com/t1080/women-s-purple-oversized-joggers-609827-1710771616-1.jpg",
+            "title":"Women's Purple Oversized Joggers",
+            "price":"₹399",
+            "catagories":"Women's Joggers"
+        },
+        {
+            "id": 19,
+            "image":"https://images.bewakoof.com/t1080/women-s-blue-baggy-stright-fit-cropped-cargo-jeans-624274-1708329058-1.jpg",
+            "title":"Women's Blue Baggy Stright Fit Cropped Cargo Jeans",
+            "price":"₹399",
+            "catagories":"Women's Cargos"
+        },
+        {
+            "id": 20,
+            "image":"https://images.bewakoof.com/t1080/women-s-purple-super-loose-fit-cargo-joggers-609812-1710765185-1.jpg",
+            "title":"Women's Purple Super Loose Fit Cargo Joggers",
+            "price":"₹399",
+            "catagories":"Women's Cargos"
+        }
+    ]
+}
